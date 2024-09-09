@@ -1,5 +1,4 @@
-# ProjectAkhir
-# Python-NLP-KampusMerdeka"
+
 # Home Page 
 ![alt text](https://github.com/FARIZ2310/Python-NLP-KampusMerdeka/blob/main/Home.jpeg?raw=true)
 
